@@ -15,16 +15,25 @@
 
 ---
 
-## 🚀 Tools
+## 🚀 Technologies on my roadmap
 
-![Git](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman)
+![Kotlin](https://img.shields.io/badge/kotlin-purple?style=for-the-badge&logo=kotlin)
+![Android](https://img.shields.io/badge/android-green?style=for-the-badge&logo=android)
+![Firebase](https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase)
+![Apache Kafka](https://img.shields.io/badge/kafka-black?style=for-the-badge&logo=apachekafka)
+![Spring](https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring)
+![MongoDB](https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb)
 
 ---
 
-## 📊 My GitHub Stats
+## 🛠 Technologies and tools I've used
 
-![Larissa GitHub stats](https://github-readme-stats.vercel.app/api?username=larissamariadesousa&show_icons=true&theme=tokyonight)
+![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-blue?style=for-the-badge&logo=elasticsearch)
+![Kibana](https://img.shields.io/badge/kibana-blue?style=for-the-badge&logo=kibana)
+![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman)
+![Jira](https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=jira)
+![Git](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git)
 
 ---
 
