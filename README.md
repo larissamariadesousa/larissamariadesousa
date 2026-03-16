@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm Larissa
 
-<!--
-**larissamariadesousa/larissamariadesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Learning software development  
+🚀 Passionate about technology and problem solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Technologies I'm currently learning
+
+![C#](https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=c-sharp)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3)
+
+---
+
+## 🚀 Tools
+
+![Git](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman)
+
+---
+
+## 📊 My GitHub Stats
+
+![Larissa GitHub stats](https://github-readme-stats.vercel.app/api?username=larissamariadesousa&show_icons=true&theme=tokyonight)
+
+---
+
+⭐ Always learning and building new projects
